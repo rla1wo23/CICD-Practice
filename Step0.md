@@ -36,7 +36,16 @@
 
    우선, Client폴더랑 Server폴더를 각각 만들어주세요
 
-   <img src="src/Untitled 4.png" />
+   그 다음, 터미널에서 Client폴더로 이동해줍시다. 거기서, git을 쓸 수 있게,git init을 입력해줍니다.
+
+   Github에서 초록색 Code 버튼에 있는 HTTPS 링크 부분을 복사해 봅니다. git clone "복사해온 링크" 해주면 됩니다.
+
+   요약:
+
+   1. **내가 만들어둔 로컬의 Client 폴더로 이동**
+   2. **git init**
+   3. **git clone "복사한 링크"**
+      <img src="src/Untitled 4.png" />
 
 - **이제 Server 소스코드도 가져와 봅시다.**
 
