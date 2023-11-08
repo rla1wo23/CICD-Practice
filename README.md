@@ -9,3 +9,5 @@
 - 사용하는 기능은 Aws CodePipeline, Aws CodeBuild, AWS CodeDeploy와, Github에서 빌드 자동화를 위한 Github Action까지 사용해보도록 하겠습니다.
 
 - 소스코드는 제 Github repository에 있으니, 이를 이용하고 STEP0부터 차근차근 따라오시면 됩니다.
+
+- cgtest
